@@ -38,11 +38,8 @@ Ensure the following are installed on your system:
    3. Install Playwright browsers:
 ```bash
    npx playwright install
----
+
 
 ## Usage
  ```bash
  npx playwright test
-
----
-
